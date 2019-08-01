@@ -1,0 +1,110 @@
+.head{
+    background-color: rgb(138, 138, 202);
+    padding: 3px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.links{
+    color:whitesmoke;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.links:hover{
+    color:red;
+}
+
+.book-container{
+    display: flex;
+background-color: bisque;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+.food-container{
+    display: flex;
+background-color: rgb(247, 224, 228);
+justify-content: space-around;
+align-items: center;
+flex-direction: column;
+}
+.drink-container{
+    display: flex;
+background-color:rgb(243, 235, 235);
+justify-content: center;
+align-items: center;
+flex-direction: column; 
+}
+
+.phone-container{
+    display: flex;
+background-color: rgb(185, 245, 96);
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+.worker-container{
+    display: flex;
+background-color: rgb(186, 247, 64);
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+.item-container{
+    text-align: center;
+}
+table{
+    margin: 20px 60px 10px 60px;
+border-collapse: separate;
+border-color:black;
+padding: 5px;
+}
+.ass{
+    border: 2px solid red;
+     height: 30px;
+     margin: 8px 0px 10px 0px; 
+     padding: 10px;
+width: 500px;
+}
+.asss{
+    border: 2px solid red;
+     height: 30px;
+     margin: 20px 0px 10px 0px; 
+     padding: 10px;
+width: 695px;
+ }
+ input{
+     padding: 5px;
+     margin-right: 10px;
+     margin-left: 10px;
+     border: 1px solid black;
+ }
+ button{
+     padding: 5px;
+     font-weight: bold;
+ }
+.add{
+    width: 527px;
+    padding: 10px;
+    background: blueviolet;
+    font-weight: bolder;
+    color: white;
+    margin-bottom: 15px;
+}
+.add-worker{
+    width: 722px;
+    padding: 10px;
+    background: blueviolet;
+    font-weight: bolder;
+    color: white;
+    margin-bottom: 15px;
+}
+.newClass{
+    background: rgb(241, 175, 175);
+    padding: 15px;
+    display: flex;
+    
+    justify-content: center !important;
+}
+
